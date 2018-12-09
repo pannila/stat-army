@@ -1,0 +1,19 @@
+{
+  "name": "statsbot",
+  "version": "0.0.1",
+  "description": "Discord bot for your stats.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "moment": "^2.22.2"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://github.com/dpprdev/statsbot"
+  },
+  "license": "MIT"
+}
