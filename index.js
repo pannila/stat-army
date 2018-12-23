@@ -3,9 +3,9 @@ const moment = require("moment"); //Define moment.
 const client = new Discord.Client(); //The bot itself.
 
 let options = {
-    total: '521397762164654101',
-    users: '521397762877816854',
-    bots: '521397763813146644'
+    total: '526521034967351296',
+    users: '526521199887384607',
+    bots: '526521335887691805'
 }; //Options for bot to work
 // bot need permissions to work btw.
 client.on("ready", () => {
